@@ -1,6 +1,6 @@
 [![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/admin.jpg)](https://mdbootstrap.com/freebies/admin-dashboard-template/)
 
-# Bootstrap 4 & Material Design - Blog Template 
+# Bootstrap 4 & Material Design - Admin Template 
 
 Free, responsive Blog template containing many types of engaging posts, author pages, and category pages. Designed for storytellers. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
 
