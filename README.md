@@ -2,7 +2,7 @@
 
 # Bootstrap 4 & Material Design - Admin Template 
 
-Free, responsive Blog template containing many types of engaging posts, author pages, and category pages. Designed for storytellers. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
+Free, responsive Admin Dashboard template containing different styles of dashboards, data presentations, and numerous insightful components. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
 
 ________
 
