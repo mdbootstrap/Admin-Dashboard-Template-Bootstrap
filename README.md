@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/admin.jpg)](https://mdbootstrap.com/freebies/admin-dashboard-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/admin.jpg)](https://mdbootstrap.com/freebies/jquery/admin-dashboard/)
 
 # Bootstrap 4 & Material Design - Admin Template 
 
@@ -7,7 +7,7 @@ Free, responsive Admin Dashboard template containing different styles of dashboa
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/admin-dashboard-template/
+## https://mdbootstrap.com/freebies/jquery/admin-dashboard/
 
 # Most important features:
 
